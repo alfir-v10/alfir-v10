@@ -24,7 +24,7 @@ At school, I have to program in C, but in my free time, I like programming in Py
 
 <h1 align='center'> Useful Skills </h1>
  
-<h3 align='center'>I've been told it's one of my more useful skill sets, yes.<h3>
+<h3 align='center'>"I've been told it's one of my more useful skill sets, yes."<h3>
 <p align='center'>
  <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF" />  
  <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF" /> 
@@ -51,10 +51,9 @@ At school, I have to program in C, but in my free time, I like programming in Py
  
 <h1 align='center'> 
  Desire Skills
- It's a highly technical skill.
 </h1>
 <h3 align='center'> 
- It's a highly technical skill.
+ "It's a highly technical skill"
 </h3>
 
 <p align='center'>
