@@ -20,9 +20,10 @@ At school, I have to program in C, but in my free time, I like programming in Py
   * [Введение в машинное обучение (HSE University, Yandex School of Data Analysis)](https://www.coursera.org/account/accomplishments/verify/FF5V77F5JPWY)
   * [Neural Networks and Deep Learning (deeplearning.ai)](https://www.coursera.org/account/accomplishments/verify/CZ5NLL256K5C)
   * [SQL for Data Science (UC Davis)](https://www.coursera.org/account/accomplishments/verify/LUG88JGLWGM8)
-
 ---
-<h1 align='center'> Useful Skills <h1>
+
+<h1 align='center'> Useful Skills </h1>
+ 
 <h3 align='center'>I've been told it's one of my more useful skill sets, yes.<h3>
 <p align='center'>
  <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF" />  
