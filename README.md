@@ -8,10 +8,12 @@ At school, I have to program in C, but in my free time, I like programming in Py
 [![btwee's 42 stats](https://badge42.herokuapp.com/api/stats/btwee?privacyEmail=true&darkmode=true)](https://github.com/alfir-v10)
 
 <img src="https://www.codewars.com/users/alfir_v10/badges/large">
+
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfir-v10&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfir-v10&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfir-v10&theme=nord_bright)
+
 ---
 ## Finished courses:
   * [Погружение в Python (Moscow Institute of Physics and Technology, Mail.Ru Group)](https://www.coursera.org/account/accomplishments/verify/YAGMXQDXFN2A)
