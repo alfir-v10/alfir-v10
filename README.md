@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a post-graduate student of the Department of Radiophysics of Kazan Federal University.
 <!--
 **alfir-v10/alfir-v10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
