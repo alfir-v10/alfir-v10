@@ -7,7 +7,7 @@ At school, I have to program in C, but in my free time, I like programming in Py
 #### You can find me at <a href="https://www.linkedin.com/in/alfir-vakhitov-393bbb1b6/"><img src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" height="25" ></a>.         
 [![btwee's 42 stats](https://badge42.herokuapp.com/api/stats/btwee?privacyEmail=true&darkmode=true)](https://github.com/alfir-v10)
 
-<p align='center'>[![btwee's 42 stats](https://badge42.herokuapp.com/api/stats/btwee?privacyEmail=true&darkmode=true)](https://github.com/alfir-v10)</p>
+<p align='center'>![btwee's 42 stats](https://badge42.herokuapp.com/api/stats/btwee?privacyEmail=true&darkmode=true)(https://github.com/alfir-v10)</p>
 
 <img src="https://www.codewars.com/users/alfir_v10/badges/large">
 
