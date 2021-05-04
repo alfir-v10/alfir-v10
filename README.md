@@ -1,4 +1,4 @@
-### Hi World 👋
+<h1 align='center'> Hi World 👋 </h1>
 I am a post-graduate student of the Department of Radiophysics of Kazan Federal University.
 
 At the moment, I am taking part in [School21](https://21-school.ru/) powered by [Sber](https://www.sberbank.ru/ru/person) and [42](https://www.42.fr/ledito/)
