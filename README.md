@@ -16,16 +16,12 @@ At school, I have to program in C, but in my free time, I like programming in Py
 ---
 
 <p align='center'>
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfir-v10&theme=nord_bright" alt='btwee's 42 stats' />
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfir-v10&theme=nord_bright" />
        <br>
        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfir-v10&theme=nord_bright" />
        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfir-v10&theme=nord_bright" />
 </p>
                   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfir-v10&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfir-v10&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfir-v10&theme=nord_bright)
-
 ---
 ## Finished courses:
   * [Погружение в Python (Moscow Institute of Physics and Technology, Mail.Ru Group)](https://www.coursera.org/account/accomplishments/verify/YAGMXQDXFN2A)
