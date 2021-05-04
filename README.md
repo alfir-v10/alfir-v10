@@ -31,6 +31,7 @@ At school, I have to program in C, but in my free time, I like programming in Py
 
 ### Desire Skills
 It's a highly technical skill.
+
 <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
 <!--
 **alfir-v10/alfir-v10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
