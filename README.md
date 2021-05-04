@@ -13,9 +13,6 @@ At school, I have to program in C, but in my free time, I like programming in Py
   </a>
 </p>
 
-
-<img  src="https://www.codewars.com/users/alfir_v10/badges/large">
-
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfir-v10&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfir-v10&theme=nord_bright)
