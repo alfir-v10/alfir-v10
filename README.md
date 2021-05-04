@@ -22,8 +22,8 @@ At school, I have to program in C, but in my free time, I like programming in Py
   * [SQL for Data Science (UC Davis)](https://www.coursera.org/account/accomplishments/verify/LUG88JGLWGM8)
 
 ---
-### Useful Skills
-I've been told it's one of my more useful skill sets, yes.
+<h1 align='center'> Useful Skills <h1>
+<h3 align='center'>I've been told it's one of my more useful skill sets, yes.<h3>
 <p align='center'>
  <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF" />  
  <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF" /> 
