@@ -1,5 +1,7 @@
 ### Hi there 👋
 I am a post-graduate student of the Department of Radiophysics of Kazan Federal University.
+
+[![btwee's 42 stats](https://badge42.herokuapp.com/api/stats/btwee?privacyEmail=true)](https://github.com/alfir-v10)
 <!--
 **alfir-v10/alfir-v10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
