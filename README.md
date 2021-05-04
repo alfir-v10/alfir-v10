@@ -11,7 +11,7 @@ At school, I have to program in C, but in my free time, I like programming in Py
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfir-v10&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfir-v10&theme=nord_bright)
 
-##Finished courses:
+## Finished courses:
   * [Погружение в Python (Moscow Institute of Physics and Technology, Mail.Ru Group)](https://www.coursera.org/account/accomplishments/verify/YAGMXQDXFN2A)
   * [Crash Course on Python (Google)](https://www.coursera.org/account/accomplishments/verify/NLBT7WK27N8P)
   * [Математика и Python для анализа данных (Moscow Institute of Physics and Technology, Mail.Ru Group)](https://www.coursera.org/account/accomplishments/verify/UBD3ZQ4ZM3U4)
