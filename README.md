@@ -47,11 +47,14 @@ I've been told it's one of my more useful skill sets, yes.
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-<p align='center'>
  
-### Desire Skills
-It's a highly technical skill.
+<h1 align='center'> 
+ 
+ ### Desire Skills
+ It's a highly technical skill.
+</h1>
 
+<p align='center'>
 <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
 
 </p>
