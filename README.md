@@ -6,6 +6,10 @@ At the moment, I am taking part in [School21](https://21-school.ru/) powered by 
 At school, I have to program in C, but in my free time, I like programming in Python.
 #### You can find me at <a href="https://www.linkedin.com/in/alfir-vakhitov-393bbb1b6/"><img src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" height="25" ></a>.
 [![btwee's 42 stats](https://badge42.herokuapp.com/api/stats/btwee?privacyEmail=true&darkmode=true)](https://github.com/alfir-v10)
+
+---
+### Skills
+<img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/slack%20-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/git%20-F050532.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/>
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfir-v10&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfir-v10&theme=nord_bright)
