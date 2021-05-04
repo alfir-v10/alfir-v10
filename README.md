@@ -49,8 +49,7 @@ I've been told it's one of my more useful skill sets, yes.
 
  
 <h1 align='center'> 
- 
- Desire Skills
+ Desire Skills\n
  It's a highly technical skill.
 </h1>
 
