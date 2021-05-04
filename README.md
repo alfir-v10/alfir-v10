@@ -13,8 +13,13 @@ At school, I have to program in C, but in my free time, I like programming in Py
 
 Finished courses:
 
-  * [Погружение в Python(МФТИ, Mail.ru)](https://www.coursera.org/account/accomplishments/verify/YAGMXQDXFN2A)
-  * [Введение в машинное обучение(НИУ ВШЭ, ШАД)](https://www.coursera.org/account/accomplishments/verify/FF5V77F5JPWY)
+  * [Погружение в Python (Moscow Institute of Physics and Technology, Mail.Ru Group)](https://www.coursera.org/account/accomplishments/verify/YAGMXQDXFN2A)
+  * [Crash Course on Python (Google)](https://www.coursera.org/account/accomplishments/verify/NLBT7WK27N8P)
+  * [Математика и Python для анализа данных (Moscow Institute of Physics and Technology, Mail.Ru Group)](https://www.coursera.org/account/accomplishments/verify/UBD3ZQ4ZM3U4)
+  * [Introduction to Data Science in Python (University of Michigan)](https://www.coursera.org/account/accomplishments/verify/8JQKJBYB4S7B)
+  * [Введение в машинное обучение (HSE University, Yandex School of Data Analysis)](https://www.coursera.org/account/accomplishments/verify/FF5V77F5JPWY)
+  * [Neural Networks and Deep Learning (deeplearning.ai)](https://www.coursera.org/account/accomplishments/verify/CZ5NLL256K5C)
+  * [SQL for Data Science (UC Davis)] (https://www.coursera.org/account/accomplishments/verify/LUG88JGLWGM8)
   * 
 <!--
 **alfir-v10/alfir-v10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
