@@ -8,9 +8,9 @@ At school, I have to program in C, but in my free time, I like programming in Py
 [![btwee's 42 stats](https://badge42.herokuapp.com/api/stats/btwee?privacyEmail=true&darkmode=true)](https://github.com/alfir-v10)
 
 
-<p>
-  <a href="http://commonmark.org" title="Redirect to homepage">
-    <img src="https://badge42.herokuapp.com/api/stats/btwee?privacyEmail=true&darkmode=true" />
+<p align='center'>
+  <a href="https://github.com/alfir-v10" title="Redirect to homepage">
+    <img src="https://badge42.herokuapp.com/api/stats/btwee?privacyEmail=true&darkmode=true" alt='btwee's 42 stats' />
   </a>
 </p>
 
