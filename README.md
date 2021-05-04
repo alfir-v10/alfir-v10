@@ -9,7 +9,6 @@ At school, I have to program in C, but in my free time, I like programming in Py
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfir-v10&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfir-v10&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfir-v10&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alfir-v10&theme=github)
 <!--
 **alfir-v10/alfir-v10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
