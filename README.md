@@ -49,8 +49,12 @@ I've been told it's one of my more useful skill sets, yes.
 
  
 <h1 align='center'> 
- Desire Skills<\b>It's a highly technical skill.
+ Desire Skills
+ It's a highly technical skill.
 </h1>
+<h3 align='center'> 
+ It's a highly technical skill.
+</h3>
 
 <p align='center'>
 <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
