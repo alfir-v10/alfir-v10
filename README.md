@@ -9,11 +9,12 @@ At school, I have to program in C, but in my free time, I like programming in Py
 <p align='center'>
   <a href="https://github.com/alfir-v10" title="btwee's 42 stats">
     <img src="https://badge42.herokuapp.com/api/stats/btwee?privacyEmail=true&darkmode=true" alt='btwee's 42 stats' />
+    <img  src="https://www.codewars.com/users/alfir_v10/badges/large"> 
   </a>
 </p>
 
 
-<img src="https://www.codewars.com/users/alfir_v10/badges/large">
+<img  src="https://www.codewars.com/users/alfir_v10/badges/large">
 
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfir-v10&theme=nord_bright)
