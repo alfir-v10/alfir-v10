@@ -16,12 +16,12 @@ At school, I have to program in C, but in my free time, I like programming in Py
 ---
 
 <p align='center'>
-  <a href="https://github.com/alfir-v10" title="btwee's 42 stats">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfir-v10&theme=nord_bright" alt='btwee's 42 stats' /><br>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfir-v10&theme=nord_bright' />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfir-v10&theme=nord_bright' />
-  </a>
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfir-v10&theme=nord_bright" alt='btwee's 42 stats' />
+       <br>
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfir-v10&theme=nord_bright" />
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfir-v10&theme=nord_bright" />
 </p>
+                  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfir-v10&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfir-v10&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfir-v10&theme=nord_bright)
