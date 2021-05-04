@@ -11,7 +11,7 @@ At school, I have to program in C, but in my free time, I like programming in Py
 ### Skills
 <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/git%20-F050532.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
-<img src="https://img.shields.io/badge/slack%20-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/slack%20-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=FFFFFF">
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfir-v10&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfir-v10&theme=nord_bright)
