@@ -10,7 +10,7 @@ At school, I have to program in C, but in my free time, I like programming in Py
   <a href="https://github.com/alfir-v10" title="btwee's 42 stats">
     <img src="https://badge42.herokuapp.com/api/stats/btwee?privacyEmail=true&darkmode=true" alt='btwee's 42 stats' /><br>
     <img src="https://www.codewars.com/users/alfir_v10/badges/large"/>
-    [![LeetCode user alfir-v10](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Falfir-v10&logo=leetcode&logoColor=yellow)](https://leetcode.com/alfir-v10/)
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Falfir-v10&logo=leetcode&logoColor=yellow">
   </a>
 </p>
 
