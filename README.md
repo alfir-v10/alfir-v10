@@ -20,7 +20,7 @@ At school, I have to program in C, but in my free time, I like programming in Py
 
 <p align='center'>
   <a href="https://leetcode.com/alfir-v10/" title="btwee's 42 stats">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Falfir-v10&logo=leetcode&logoColor=yellow">
+  <img src="https://leetcode-stats.vercel.app/api?username=alfir-v10&theme=Mist">
   </a>
 </p>
 
