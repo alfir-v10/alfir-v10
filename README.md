@@ -28,7 +28,7 @@ At school, I have to program in C, but in my free time, I like programming in Py
 
 <p align='center'>
        <img src="https://raw.githubusercontent.com/alfir-v10/profile-summary-cards/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg" />
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfir-v10&theme=nord_bright" />
+       <img src="https://raw.githubusercontent.com/alfir-v10/profile-summary-cards/master/profile-summary-card-output/nord_bright/3-stats.svg" />
 </p>
                   
 ---
