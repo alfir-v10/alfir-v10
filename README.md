@@ -80,6 +80,51 @@ At school, I have to program in C, but in my free time, I like programming in Py
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
 
+
+## Repository Guide
+> ### My Master's thesis
+* [Development of algorithms for locating sound sources in a well based on multi-sensor noise measurement data using convolutional neural networks](https://github.com/alfir-v10/MagisterDegreeWork)
+
+> ### Machine Learning and Deep Learning
+* My first experience using GAN - [CycleGAN: Image-to-Image Translation](https://github.com/alfir-v10/CycleGANImageToImageTranslation)
+* [Machine Learning Concepts](https://github.com/alfir-v10/MachineLearningConcepts) - simple examples using basic machine learning algorithms: linear regression, PCA, K-NN, etc.
+* [Machine Learning Tutorials](https://github.com/alfir-v10/MLPythonTutorials) - pandas, numpy, sklearn...
+* Task solutions from [Neural Networks and Deep Learning by DeepLearning.AI](https://www.coursera.org/learn/neural-networks-deep-learning)
+* My simple NLP project [World Cloud from songs of band](https://github.com/alfir-v10/WorldCloudFromSongsOfBand)
+* Final task from ["Introduction to Machine Learning"](https://github.com/alfir-v10/Dota2WinProbabilityPrediction) - Dota2: win probability prediction
+
+> ### Kaggle, Hackhatons
+* ["House prices advanced regression techniques"](https://github.com/alfir-v10/HousePricesAdvancedRegressionTechniques) [[kaggle]](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) - Ridge, Lasso, RandomForest, DesicionTree, kNN,CatBoost, XGBoost, GradienBoost
+* [RuCode 2020](https://digital.tatarstan.ru/index.htm/news/1836680.htm) ["MarketingRuCode"](https://github.com/alfir-v10/MarketingRuCode) - DecisionTree, RandomForest 
+
+> ### Internet of Things
+* [IoTSamsungProject](https://github.com/alfir-v10/IoTSamsungProject)
+
+> ### Web
+* [Server with Docker by Ecole42](https://github.com/alfir-v10/ServerWithDocker) - <b>docker</b> + nginx + php-fpm + wordpress + mariadb
+* [System Administration with docker-compose by Ecole42]() - <b>docker-compose</b> + nginx + php-fpm + wordpress + mariadb
+* [Simple Web with Django](https://github.com/alfir-v10/SimpleWebWithDjango) - the project was completed as part of a university project.
+* [BossLikeAutomaticBot](https://github.com/alfir-v10/BossLikeAutomaticBot) - an example of how to use <b>Selenium</b> to automate boring tasks
+* [Learn to Layout](https://github.com/alfir-v10/LearnToLayout) - a simple project using css and html
+
+> ### Algorithms and Data Structures
+* [Leet Code Solutions](https://github.com/alfir-v10/LeetCodeSolutions)
+* [CodeWars Solutions](https://github.com/alfir-v10/CodeWarsSolutions)
+
+> ### SQL
+* Task solutions from the course [Interactive SQL Simulator](https://stepik.org/course/63054/syllabus)
+
+> ### C/C++
+* [Task solutions]((https://github.com/alfir-v10/CPlusLearningCode)) from the course [Introduction to C++ programming](https://stepik.org/course/363/syllabus) and ["Fundamentals of programming in C. Tasks"](https://stepik.org/course/3078/info)
+* [Using pipe in C by Ecole42](https://github.com/alfir-v10/unix_pipe)
+* [Simple Library in C by Ecole42](https://github.com/alfir-v10/SimpleLibraryInC)
+* [PrintNextLine by Ecole42](https://github.com/alfir-v10/PrintNextLine)
+* [SimplePrintf by Ecole42](https://github.com/alfir-v10/SimplifiedPrintf)
+* [RaycastingGame by Ecole42](https://github.com/alfir-v10/RaycastingGame)
+
+> ### Other Projects
+* [IntroToCryptography](https://github.com/alfir-v10/IntroToCryptography/tree/main/empirical_tests_of_pseudorandom_number_generators) - solving laboratory problems in the field of cryptography
+
 </p>
 <!--
 **alfir-v10/alfir-v10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
