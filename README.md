@@ -46,7 +46,8 @@ At school, I have to program in C, but in my free time, I like programming in Py
  
 <h3 align='center'>"I've been told it's one of my more useful skill sets, yes."<h3>
 <p align='center'>
- <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF" />  
+ <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF" />
+ <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/>
  <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF" /> 
  <img src="https://img.shields.io/badge/git%20-F050532.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF" /> 
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -78,7 +79,7 @@ At school, I have to program in C, but in my free time, I like programming in Py
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
 
 
 ## Repository Guide
@@ -115,8 +116,8 @@ At school, I have to program in C, but in my free time, I like programming in Py
 * Task solutions from the course [Interactive SQL Simulator](https://stepik.org/course/63054/syllabus)
 
 > ### C/C++
-* [Intro to CPP](https://github.com/alfir-v10/CPP_Projects)                        
-* [Task solutions]((https://github.com/alfir-v10/CPlusLearningCode)) from the course [Introduction to C++ programming](https://stepik.org/course/363/syllabus) and ["Fundamentals of programming in C. Tasks"](https://stepik.org/course/3078/info)
+* [Learn CPP by Ecole42](https://github.com/alfir-v10/LearnCPPbyEcole42)                        
+* [Task solutions](https://github.com/alfir-v10/CPlusLearningCode) from courses [Introduction to C++ programming](https://stepik.org/course/363/syllabus) and ["Fundamentals of programming in C. Tasks"](https://stepik.org/course/3078/info)
 * [Using pipe in C by Ecole42](https://github.com/alfir-v10/unix_pipe)
 * [Simple Library in C by Ecole42](https://github.com/alfir-v10/SimpleLibraryInC)
 * [PrintNextLine by Ecole42](https://github.com/alfir-v10/PrintNextLine)
