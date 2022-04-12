@@ -8,7 +8,7 @@ At school, I have to program in C, but in my free time, I like programming in Py
 
 <p align='center'>
   <a href="https://github.com/alfir-v10" title="btwee's 42 stats">
-    <img src="https://badge42.herokuapp.com/api/stats/btwee?privacyEmail=true&darkmode=true" alt='btwee's 42 stats' /><br>
+    <img src="https://badge42.vercel.app/api/v2/cl1wbmekb002509mhximw0ipj/stats?cursusId=21&coalitionId=104" alt='btwee's 42 stats' /><br>
   </a>
 </p>
                                                                                                                    
@@ -119,7 +119,7 @@ At school, I have to program in C, but in my free time, I like programming in Py
 * [Learn CPP by Ecole42](https://github.com/alfir-v10/LearnCPPbyEcole42)                        
 * [Task solutions](https://github.com/alfir-v10/CPlusLearningCode) from courses [Introduction to C++ programming](https://stepik.org/course/363/syllabus) and ["Fundamentals of programming in C. Tasks"](https://stepik.org/course/3078/info)
 * [Using pipe in C by Ecole42](https://github.com/alfir-v10/unix_pipe)
-* [Simple Library in C by Ecole42](https://github.com/alfir-v10/SimpleLibraryInC)
+* [Simple Library in C by Ecole42](https://github.com/alfir-v10/SimpleLibraryInC) 
 * [PrintNextLine by Ecole42](https://github.com/alfir-v10/PrintNextLine)
 * [SimplePrintf by Ecole42](https://github.com/alfir-v10/SimplifiedPrintf)
 * [RaycastingGame by Ecole42](https://github.com/alfir-v10/RaycastingGame)
