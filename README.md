@@ -8,7 +8,7 @@ At school, I have to program in C, but in my free time, I like programming in Py
 
 <p align='center'>
   <a href="https://github.com/alfir-v10" title="btwee's 42 stats">
-    <img src="https://badge42.vercel.app/api/v2/cl1wbmekb002509mhximw0ipj/stats?cursusId=21&coalitionId=104" alt='btwee's 42 stats' /><br>
+    <img src="https://badge42.vercel.app/api/v2/cl1wbmekb002509mhximw0ipj/stats?cursusId=21&coalitionId=104"><br>
   </a>
 </p>
                                                                                                                    
