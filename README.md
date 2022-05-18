@@ -102,6 +102,7 @@ At school, I have to program in C, but in my free time, I like programming in Py
 * [IoTSamsungProject](https://github.com/alfir-v10/IoTSamsungProject)
 
 > ### Web
+* [Piscine Python Django by Ecole42](https://github.com/alfir-v10/PiscinePythonDjango)
 * [Server with Docker by Ecole42](https://github.com/alfir-v10/ServerWithDocker) - <b>docker</b> + nginx + php-fpm + wordpress + mariadb
 * [System Administration with docker-compose by Ecole42]() - <b>docker-compose</b> + nginx + php-fpm + wordpress + mariadb
 * [Simple Web with Django](https://github.com/alfir-v10/SimpleWebWithDjango) - the project was completed as part of a university project.
