@@ -32,6 +32,8 @@ At the moment, I am taking part in [School21](https://21-school.ru/) powered by 
 
 > ### Machine Learning and Deep Learning
 * My first experience using GAN - [CycleGAN: Image-to-Image Translation](https://github.com/alfir-v10/CycleGANImageToImageTranslation)
+* ["House prices advanced regression techniques"](https://github.com/alfir-v10/HousePricesAdvancedRegressionTechniques) [[kaggle]](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) - Ridge, Lasso, RandomForest, DesicionTree, kNN,CatBoost, XGBoost, GradienBoost
+* ["MarketingRuCode"](https://github.com/alfir-v10/MarketingRuCode) - DecisionTree, RandomForest 
 * Task solutions from [Neural Networks and Deep Learning by DeepLearning.AI](https://www.coursera.org/learn/neural-networks-deep-learning)
 * Simple NLP project [World Cloud from songs of band](https://github.com/alfir-v10/WorldCloudFromSongsOfBand)
 * [Machine Learning Concepts](https://github.com/alfir-v10/MachineLearningConcepts) - simple examples using basic machine learning algorithms: linear regression, PCA, K-NN, etc.
@@ -52,14 +54,9 @@ At the moment, I am taking part in [School21](https://21-school.ru/) powered by 
 * [PrintNextLine by Ecole42](https://github.com/alfir-v10/PrintNextLine)
 * [SimplePrintf by Ecole42](https://github.com/alfir-v10/SimplifiedPrintf)
 
-> ### Kaggle, Hackhatons
-* ["House prices advanced regression techniques"](https://github.com/alfir-v10/HousePricesAdvancedRegressionTechniques) [[kaggle]](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) - Ridge, Lasso, RandomForest, DesicionTree, kNN,CatBoost, XGBoost, GradienBoost
-* ["MarketingRuCode"](https://github.com/alfir-v10/MarketingRuCode) - DecisionTree, RandomForest 
-
 > ### Web
 * [Server with Docker by Ecole42](https://github.com/alfir-v10/ServerWithDocker) - <b>docker</b> + nginx + php-fpm + wordpress + mariadb
 * [System Administration with docker-compose by Ecole42](https://github.com/alfir-v10/SystemAdministrationByUsingDocker) - <b>docker-compose</b> + nginx + php-fpm + wordpress + mariadb
-* [BossLikeAutomaticBot](https://github.com/alfir-v10/BossLikeAutomaticBot) - an example of how to use <b>Selenium</b> to automate boring tasks
 * [Learn to Layout](https://github.com/alfir-v10/LearnToLayout) - a simple project using css and html
 
 > ### Internet of Things
