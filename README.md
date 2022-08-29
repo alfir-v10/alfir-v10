@@ -58,6 +58,7 @@ At the moment, I am taking part in [School21](https://21-school.ru/) powered by 
 * [Server with Docker by Ecole42](https://github.com/alfir-v10/ServerWithDocker) - <b>docker</b> + nginx + php-fpm + wordpress + mariadb
 * [System Administration with docker-compose by Ecole42](https://github.com/alfir-v10/SystemAdministrationByUsingDocker) - <b>docker-compose</b> + nginx + php-fpm + wordpress + mariadb
 * [Learn to Layout](https://github.com/alfir-v10/LearnToLayout) - a simple project using css and html
+* [SimpleWebWithDjango](https://github.com/alfir-v10/SimpleWebWithDjango)
 
 > ### Internet of Things
 * [IoTSamsungProject](https://github.com/alfir-v10/IoTSamsungProject)
