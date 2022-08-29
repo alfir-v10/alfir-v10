@@ -39,7 +39,7 @@ At the moment, I am taking part in [School21](https://21-school.ru/) powered by 
 * My first experience using GAN - [CycleGAN: Image-to-Image Translation](https://github.com/alfir-v10/CycleGANImageToImageTranslation)
 * ["House prices advanced regression techniques"](https://github.com/alfir-v10/HousePricesAdvancedRegressionTechniques) [[kaggle]](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) - Ridge, Lasso, RandomForest, DesicionTree, kNN,CatBoost, XGBoost, GradienBoost
 * ["MarketingRuCode"](https://github.com/alfir-v10/MarketingRuCode) - DecisionTree, RandomForest 
-* Task solutions from [Neural Networks and Deep Learning by DeepLearning.AI](https://www.coursera.org/learn/neural-networks-deep-learning)
+* Task [solutions](https://github.com/alfir-v10/NeuralNetworksAndDeepLearning) from [Neural Networks and Deep Learning by DeepLearning.AI](https://www.coursera.org/learn/neural-networks-deep-learning)
 * Simple NLP project [World Cloud from songs of band](https://github.com/alfir-v10/WorldCloudFromSongsOfBand)
 * [Machine Learning Concepts](https://github.com/alfir-v10/MachineLearningConcepts) - simple examples using basic machine learning algorithms: linear regression, PCA, K-NN, etc.
 * [Machine Learning Tutorials](https://github.com/alfir-v10/MLPythonTutorials) - pandas, numpy, sklearn...
