@@ -31,6 +31,11 @@ At the moment, I am taking part in [School21](https://21-school.ru/) powered by 
 * [Development of algorithms for locating sound sources in a well based on multi-sensor noise measurement data using convolutional neural networks](https://github.com/alfir-v10/MagisterDegreeWork)
 
 > ### Machine Learning and Deep Learning
+* [Linear Regression](https://github.com/alfir-v10/LinearRegression) from scratch by Ecole42
+* [Logistic Regression](https://github.com/alfir-v10/dslr) from scratch by Ecole42
+* [Multilayer Perceptron](https://github.com/alfir-v10/MultilayerPerceptron) from scratch by Ecole42
+* [Sentimental Analysis of Tweets](https://github.com/alfir-v10/tweets) by Ecole42 (tf-idf, bag of words, word2vec)
+* [Churn Prediction](https://github.com/alfir-v10/churn) by Ecole42 (in progress) (mlp implementation with numpy, scikit-learn, tensorflow, keras) 
 * My first experience using GAN - [CycleGAN: Image-to-Image Translation](https://github.com/alfir-v10/CycleGANImageToImageTranslation)
 * ["House prices advanced regression techniques"](https://github.com/alfir-v10/HousePricesAdvancedRegressionTechniques) [[kaggle]](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) - Ridge, Lasso, RandomForest, DesicionTree, kNN,CatBoost, XGBoost, GradienBoost
 * ["MarketingRuCode"](https://github.com/alfir-v10/MarketingRuCode) - DecisionTree, RandomForest 
