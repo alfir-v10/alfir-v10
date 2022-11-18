@@ -1,6 +1,6 @@
 ## Hi, World 👋 
 I am a post-graduate student of the Department of Radiophysics of Kazan Federal University.
-At the moment, I am taking part in [School21](https://21-school.ru/) powered by [Sber](https://www.sberbank.ru/ru/person) and [42](https://www.42.fr/ledito/)
+At the moment, I am taking part in [Ecole 42](https://www.42.fr/ledito/)(Paris).
 #### You can find me at <a href="https://www.linkedin.com/in/alfir-vakhitov-393bbb1b6/"><img src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" height="25" ></a>.
                                                                                                                    
 <p align='center'>
